@@ -4,4 +4,5 @@ body {
 
 .medium-img {
   width: 16.7%;
+  float: top;
 }
