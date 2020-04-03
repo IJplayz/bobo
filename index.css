@@ -2,7 +2,7 @@ body {
   font-family: Corbel, "Calibri Light", -apple-system;
 }
 
-photos {
-  width: 16.7;
+.photos {
+  width: 50%;
 }
 
