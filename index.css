@@ -6,3 +6,12 @@ body {
   width: 16.7%;
   float: top;
 }
+
+.top {
+  font-family: Corbel, "Calibri Light", -apple-system;
+  text-decoration: none;
+  color: black;
+  padding-left: 20px;
+  position: relative;
+  bottom: 50px;
+}
